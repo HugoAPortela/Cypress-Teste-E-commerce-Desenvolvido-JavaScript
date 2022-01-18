@@ -22,4 +22,3 @@ Sobre a configuração do ambiente...
 Agora é só escrever o seu primeiro teste em um arquivo .spec.js :-)
 
 
-Se houverem dúvidas, mandem uma mensagem para mim: https://www.linkedin.com/in/barbaracasac/
